@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chirudeep Vanjam
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Chirudeep Vanjam.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on open source projects & crypto projects.
 - 📫 You can reach out to me on Twitter @deep_chiru
 
