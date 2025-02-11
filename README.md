@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chirudeep Vanjam.
+- 👋 Hi, I’m Chirudeep Mohan.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on open source projects & crypto projects.
